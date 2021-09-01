@@ -79,7 +79,7 @@ If you need a hand, make sure to check the [Stackbit support page](https://stack
 
 1. Start the Next.js local development server:
 
-        npm run develop
+        npm run dev
 
 1. Open [http://localhost:3000/](http://localhost:3000/) in the browser to see
    your site. You can now edit the site contents, and the browser will
