@@ -1,6 +1,6 @@
 {
   "name": "fresh-nextjs",
-  "description": "A Stackbit Fresh theme built with Next.js",
+  "description": "A Developer focused blogging site, built with Next.js",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {

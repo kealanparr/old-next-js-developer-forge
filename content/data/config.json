@@ -1,10 +1,10 @@
 {
-    "title": "Stackbit Fresh Theme",
+    "title": "Developer-Forge",
     "path_prefix": "/",
     "layout_style": "overflow",
     "palette": "blue",
     "header": {
-        "title": "Stackbit Fresh",
+        "title": "Developer-Forge",
         "tagline": "Header Tagline",
         "profile_img": "images/avatar.png",
         "profile_img_alt": "Author avatar",
