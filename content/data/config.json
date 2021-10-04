@@ -1,11 +1,12 @@
 {
     "title": "Developer-Forge",
     "path_prefix": "/",
+    "favicon": "images/favicon.ico",
     "layout_style": "overflow",
     "palette": "blue",
     "header": {
         "title": "Developer-Forge",
-        "tagline": "Header Tagline",
+        "tagline": "Keep your Developer skills sharp",
         "profile_img": "images/avatar.png",
         "profile_img_alt": "Author avatar",
         "background": "dark",
@@ -22,14 +23,24 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
+                "label": "Software Principles",
+                "url": "/software-principles/",
                 "style": "link"
+            },
+            {
+              "label": "Tech-talks",
+              "url": "/tech-talks-condensed/",
+              "style": "link"
             },
             {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
+            },
+            {
+              "label": "Books",
+              "url": "/books/",
+              "style": "link"
             },
             {
                 "label": "Contact",
@@ -41,42 +52,32 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/kealanparr",
                 "style": "icon",
                 "icon_class": "twitter",
                 "new_window": true
             },
             {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon_class": "instagram",
-                "new_window": true
-            },
-            {
                 "label": "GitHub",
-                "url": "https://github.com/",
+                "url": "https://github.com/kealanparr",
                 "style": "icon",
                 "icon_class": "github",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/kealanparr/",
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
             },
             {
-                "label": "DEV",
-                "url": "https://dev.to/",
+                "label": "Personal",
+                "url": "https://kealanparr.com/",
                 "style": "icon",
-                "icon_class": "dev",
+                "icon_class": "personal",
                 "new_window": true
             }
         ]
-    },
-    "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     }
 }
