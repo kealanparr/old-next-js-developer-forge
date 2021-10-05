@@ -65,6 +65,14 @@ export default class Body extends React.Component {
                 <Helmet>
                     <title>{title}</title>
                     <meta charSet="utf-8" />
+                    <script async src="https://www.googletagmanager.com/gtag/js?id=G-M9DYNN5SL8"></script>
+                    <script>
+                      window.dataLayer = window.dataLayer || [];
+                      function gtag(){dataLayer.push(arguments)}
+                      gtag('js', new Date());
+
+                      gtag('config', 'G-M9DYNN5SL8');
+                    </script>
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
                     <meta name="google" content="notranslate" />
                     <meta name="description" content={seoDescription} />
