@@ -17,7 +17,7 @@ sections:
         style: button
 seo:
   title: Developer-Forge
-  description: The preview of the Fresh theme
+  description: Discover more about software development best practices and read opinion pieces on the software eco-system
   extra:
     - name: 'og:type'
       value: website
@@ -26,7 +26,7 @@ seo:
       value: Developer-Forge
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: Discover more about software development best practices and read opinion pieces on the software eco-system
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
@@ -37,7 +37,7 @@ seo:
     - name: 'twitter:title'
       value: Developer-Forge
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: Discover more about software development best practices and read opinion pieces on the software eco-system
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
