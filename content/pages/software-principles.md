@@ -53,7 +53,7 @@ layout: page
 <!-- - [Moor's](/moors/) -->
 - [Murphy's](/murphys/)
 - [Norvig's](/norvigs/)
-- [Pareto's](/pareto/)
+- [Pareto's Principle or the 80/20 Rule](/pareto/)
 - [Peter Principle](/peter/)
 - [Postel's](/postels/)
 - [Wirth's](/wirths/)
