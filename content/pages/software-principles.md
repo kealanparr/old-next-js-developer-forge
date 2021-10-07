@@ -10,7 +10,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Theme Style Guide
+      value: Software Principles
       keyName: property
     - name: 'og:description'
       value: >-
@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Theme Style Guide
+      value: Software Principles
     - name: 'twitter:description'
       value: >-
         A reference for suggested typographic treatment and styles for your
@@ -58,6 +58,6 @@ layout: page
 - [Postel's](/postels/)
 - [Wirth's](/wirths/)
 
-
+<!-- Gates's law -->
 <!-- Proebsting's law --->
 <!-- Rock's law -->

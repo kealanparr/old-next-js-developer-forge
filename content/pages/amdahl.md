@@ -1,5 +1,5 @@
 ---
-title: Chesterton's Fence
+title: Amdahl's Law
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
@@ -8,7 +8,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Theme Style Guide
+      value: Amdahl's Law
       keyName: property
     - name: 'og:description'
       value: >-
@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Theme Style Guide
+      value: Amdahl's Law
     - name: 'twitter:description'
       value: >-
         A reference for suggested typographic treatment and styles for your
