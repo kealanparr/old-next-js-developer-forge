@@ -54,7 +54,7 @@ I have a collection of side projects I enjoy doing/did to learn something new:
 - I have a [personal site](https://kealanparr.com/) I keep updated with what I'm upto
 - When I was first learning Go and Docker, I made a [golang blog](https://github.com/kealanparr/go-blog) that connects to a containerised Database
 - I was fascinated with Path finding algorithms, so I implemented [Djikstra and A*](https://github.com/kealanparr/pathFinder.js). I then made [Conways Game of Life](https://github.com/kealanparr/Conways.)
-- [DeveloperForge](developer-forge.com) is updated by me
+- [DeveloperForge](developer-forge.com) is updated by me, a Next.JS Static Site
 - I made a [website](https://einsteins-riddle.com/) to solve [Einsteins Riddle ](https://www.freecodecamp.org/news/einsteins-riddle/)
 - As part of an interview process, I made a [candidate-checker](https://mysterious-hollows-01965.herokuapp.com/) in go. Try typing "kealan parr" into the box! Or try "joe bloggs" as another example.
 - I maintain a personal fork of a commonly used Chrome bookmark that helps me know what I'm working on next (the fork is only minor CSS changes) and load into the browser

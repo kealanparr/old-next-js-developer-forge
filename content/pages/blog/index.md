@@ -1,7 +1,7 @@
 ---
 title: Blog
 seo:
-  title: Blog
+  title: Developer-Forge
   description: This is the blog page
   extra:
     - name: 'og:type'
@@ -13,18 +13,8 @@ seo:
     - name: 'og:description'
       value: This is the blog page
       keyName: property
-    - name: 'og:image'
-      value: images/1.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Blog
     - name: 'twitter:description'
-      value: This is the blog page
-    - name: 'twitter:image'
-      value: images/1.jpg
+      value: A collection of blog posts written on developer-forge
       relativeUrl: true
 layout: blog
 ---

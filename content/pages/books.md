@@ -1,8 +1,8 @@
 ---
 title: Books Read
 seo:
-  title: Theme Style Guide
-  description: A reference for suggested typographic treatment and styles for your content
+  title: Books Read
+  description: A collection of profesional books read
   extra:
     - name: 'og:type'
       value: website
@@ -11,31 +11,15 @@ seo:
       value: Books Read
       keyName: property
     - name: 'og:description'
-      value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
-      keyName: property
-    - name: 'og:image'
-      value: images/1.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
       value: Books Read
-    - name: 'twitter:description'
-      value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
-    - name: 'twitter:image'
-      value: images/1.jpg
+      keyName: property
       relativeUrl: true
 layout: page
 ---
 
 I love reading. In the past, I have set myself challenges to read a book a week for a year, across a mixture of technical and non-technical content.
 
-I keep this list purely as a reminder of the books that I have read.
+I keep this list purely as a reminder of the (profesional development) books that I have read.
 
 - CQRS, the Example by Mark Nijhof
 - The Slight Edge by Jeff Olson

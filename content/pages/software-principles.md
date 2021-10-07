@@ -3,7 +3,7 @@ title: Software Principles
 subtitle: >-
   The way you develop & think about software is influenced by the principles you're aware of. 
 seo:
-  title: Theme Style Guide
+  title: Software Principles
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
@@ -14,23 +14,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
+        A list of Software Principles to inform
       keyName: property
-    - name: 'og:image'
-      value: images/1.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Software Principles
-    - name: 'twitter:description'
-      value: >-
-        A reference for suggested typographic treatment and styles for your
-        content
-    - name: 'twitter:image'
-      value: images/1.jpg
       relativeUrl: true
 layout: page
 ---
