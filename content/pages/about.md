@@ -57,7 +57,6 @@ I have a collection of side projects I enjoy doing/did to learn something new:
 - [DeveloperForge](developer-forge.com) is updated by me, a Next.JS Static Site
 - I made a [website](https://einsteins-riddle.com/) to solve [Einsteins Riddle ](https://www.freecodecamp.org/news/einsteins-riddle/)
 - As part of an interview process, I made a [candidate-checker](https://mysterious-hollows-01965.herokuapp.com/) in go. Try typing "kealan parr" into the box! Or try "joe bloggs" as another example.
-- I maintain a personal fork of a commonly used Chrome bookmark that helps me know what I'm working on next (the fork is only minor CSS changes) and load into the browser
 
 I love to keep upto date with the software field in general, and am a member of [ACM](https://www.acm.org/) and the [Unicode Consortium](https://unicode.org/consortium/consort.html)
 
