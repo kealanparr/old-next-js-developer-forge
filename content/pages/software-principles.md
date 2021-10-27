@@ -46,3 +46,13 @@ layout: page
 <!-- Gates's law -->
 <!-- Proebsting's law --->
 <!-- Rock's law -->
+
+Sturgeons Law
+
+https://www.youtube.com/watch?v=XNbaR54Gpj4
+
+https://vimeo.com/72140534
+
+https://www.youtube.com/watch?v=L7EGIt3-WUQ
+
+https://www.youtube.com/watch?v=Y4wnbkatj20
