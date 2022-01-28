@@ -35,7 +35,7 @@ Bonus points if the build system automatically fixes common linting errors.
 ### Fast, non-fragile pipelines
 When you either merge your feature branch, or push into master - you have fast CI/CD pipelines that don't regularly break/hang.
 ### Automated testing
-Normally as part of your pipeline, you have a host of unit and integration tests that run, and place a comment on the Merge Request is appropiate.
+Normally as part of your pipeline, you have a host of unit and integration tests that run, and place a comment on the Merge Request if appropiate.
 ### Pre-push checks
 For smaller non-test related checks, you may have pre-push checks that ensure your commit message follow a certain pattern/references a ticket *etc*
 ### Unit tests
@@ -60,7 +60,7 @@ I've seen releases get automated to save time.
 I've seen kubernetes being used because developers kept getting called out at early hours to ssh onto boxes and restart them.
 ### Sensible logging
 Logging can be an anti-pattern- but sensible logs in the front-end and back-end can also help you triage issues, and understand how many customers are facing errors.
-Helps you to see if you're getting "better" or "worse".
+Helps you to see if you're getting "better" or "worse" over time.
 ### Address technical debt
 The team is able to advocate for technical debt to be removed, rather than only ever writing new code.
 ### Regressions
