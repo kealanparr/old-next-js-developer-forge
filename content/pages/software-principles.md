@@ -21,27 +21,27 @@ layout: page
 ---
 
 <!-- - [Amdahl's](/amdahl/) -->
-- [Bikeshedding or the Law of Triviality](/bikeshedding/)
-- [Brook's](/brooks/)
-- [Chesterton's Fence](/chestertons-fence/)
-- [Conway's](/conways/)
+- [Bikeshedding or the Law of Triviality](/principles/bikeshedding/)
+- [Brook's](/principles/brooks/)
+- [Chesterton's Fence](/principles/chestertons-fence/)
+- [Conway's](/principles/conways/)
 <!-- - [De Morgan's](/de-morgans/) -->
-- [Demeter's Law or the Principle of Least Knowledge](/demeters/)
-- [Gall's](/galls/)
-- [Hofstadter's](/hofstadters/)
-- [Hollywood Principle](/hollywood/)
+- [Demeter's Law or the Principle of Least Knowledge](/principles/demeters/)
+- [Gall's](/principles/galls/)
+- [Hofstadter's](/principles/hofstadters/)
+- [Hollywood Principle](/principles/hollywood/)
 <!-- - [Hyrum's](/hyrums/) -->
-- [Jakob's](/jakobs/)
+- [Jakob's](/principles/jakobs/)
 <!-- - [Kerchkhoff's](/kerchkhoffs/) -->
-- [Knuth's](/knuths/)
-- [Linus's](/linus/)
+- [Knuth's](/principles/knuths/)
+- [Linus's](/principles/linus/)
 <!-- - [Moor's](/moors/) -->
-- [Murphy's](/murphys/)
-- [Norvig's](/norvigs/)
-- [Pareto's Principle or the 80/20 Rule](/pareto/)
-- [Peter Principle](/peter/)
-- [Postel's](/postels/)
-- [Wirth's](/wirths/)
+- [Murphy's](/principles/murphys/)
+- [Norvig's](/principles/norvigs/)
+- [Pareto's Principle or the 80/20 Rule](/principles/pareto/)
+- [Peter Principle](/principles/peter/)
+- [Postel's](/principles/postels/)
+- [Wirth's](/principles/wirths/)
 
 <!-- Gates's law -->
 <!-- Proebsting's law --->

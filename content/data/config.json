@@ -32,6 +32,11 @@
               "url": "/tech-talks-condensed/",
               "style": "link"
             },
+						{
+              "label": "How to Learn",
+              "url": "/how-to-learn/",
+              "style": "link"
+            },
             {
                 "label": "About",
                 "url": "/about/",
