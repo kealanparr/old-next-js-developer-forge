@@ -17,4 +17,4 @@ seo:
 layout: page
 ---
 
-1. Read this [article](https://www.valentinog.com/blog/webpack/)
+Read this [article](https://www.valentinog.com/blog/webpack/)
