@@ -2,9 +2,9 @@
 title: The first post!
 excerpt: The first post on Developer-Forge!
 date: '2021-11-06'
-thumb_img_path: images/7.jpg
+thumb_img_path: images/0.jpg
 thumb_img_alt: Icelandic horses
-content_img_path: images/7.jpg
+content_img_path: images/0.jpg
 content_img_alt: Icelandic horses
 seo:
   title: Developer-Forge is born!
@@ -21,7 +21,7 @@ seo:
         The first technical blog post on Developer-Forge.
       keyName: property
     - name: 'og:image'
-      value: images/7.jpg
+      value: images/0.jpg
       keyName: property
       relativeUrl: true
 layout: post
