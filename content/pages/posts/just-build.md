@@ -44,7 +44,7 @@ The only thing $NAME had done, was have multiple deployments under his belt and 
 
 - To be a good violinist, play the violin more.
 - To be a good coder, code more.
-- To be a good write, write more.
+- To be a good writer, write more.
 
 This applies to beginners and to people approaching mastery of their craft.
 

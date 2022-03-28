@@ -39,4 +39,4 @@ I keep this list purely as a reminder of the (profesional development) books tha
 - The Coding Career Handbook by Shawn 'swyx' Wang
 - Code Reviews by Dr. Michaela Greiler
 
-If there is a good one you think I should read, please contact me via this site and tell me, I would love to add a good one to my list :)
+If there is a good book you think I should read, please contact me via this site and tell me, I would love to read it! :)
