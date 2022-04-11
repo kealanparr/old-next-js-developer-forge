@@ -92,7 +92,7 @@ No-one ever says "I need a work-life balance" and means they need to work more.
 
 But a **balance** is different for each person.
 
-I think I slightly skew towards working more (but I deeply enjoy what I do).
+I think I slightly skew towards working more (but I enjoy what I do).
 
 - Maybe you want to keep strictly to your 8hrs and not code outside of work - perfect, you've found your balance
 - Maybe you quit your job and become an indie developer to work less - perfect, you've found your balance
