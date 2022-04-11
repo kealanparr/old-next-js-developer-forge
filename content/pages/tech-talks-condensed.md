@@ -18,3 +18,4 @@ layout: page
 ---
 
 - [How to speak - Patrick Winston (MIT OpenCourse)](/tech-talks/how-to-speak)
+
