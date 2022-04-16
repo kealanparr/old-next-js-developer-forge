@@ -82,25 +82,11 @@ The "least fun" part of coding is when you first start, and have no idea what to
 
 If you can get over that hurdle, chances are you can learn to be a great professional Engineer.
 
-> We all want progress. But progress means getting nearer to the place you want to be and if you have taken a wrong turning, then to go forward does not get you any nearer. If you are on the wrong road, progress means doing an about-turn and walking back to the right road; and in that case, the man who turns back soonest is the most progressive man. We have all seen this when we do arithmetic. When I have started a sum the wrong way, the sooner I admit this and go back and start over again, the faster I shall get on. There is nothing progressive about being pigheaded and refusing to admit a mistake. And I think if you look at the present state of the world, it is pretty plain that humanity has been making some big mistakes. We are on the wrong road. And if that is so, we must go back. Going back is the quickest way on. <cite>C.S. Lewis</cite>
-
-# Work as much as you want
-
-Whenever I hear people talk about work-life-balance, it's only ever in the favour of working less.
-
-No-one ever says "I need a work-life balance" and means they need to work more.
-
-But a **balance** is different for each person.
-
-I think I slightly skew towards working more (but I enjoy what I do).
-
-- Maybe you want to keep strictly to your 8hrs and not code outside of work - perfect, you've found your balance
-- Maybe you quit your job and become an indie developer to work less - perfect, you've found your balance
-- Maybe you take up part-time contracting work alongside your full-time job - perfect, you've found your balance
-
-Do what makes you happy!
-
-I'm not trying to say you need to always work, find your own balance.
+> We all want progress. But progress means getting nearer to the place you want to be and if you have taken a wrong turning, then to go forward does not get you any nearer.	
+> If you are on the wrong road, progress means doing an about-turn and walking back to the right road; and in that case, the man who turns back soonest is the most progressive man.	
+> We have all seen this when we do arithmetic. When I have started a sum the wrong way, the sooner I admit this and go back and start over again, the faster I shall get on.	
+> There is nothing progressive about being pigheaded and refusing to admit a mistake.	
+> And I think if you look at the present state of the world, it is pretty plain that humanity has been making some big mistakes. We are on the wrong road. And if that is so, we must go back. Going back is the quickest way on. <cite>C.S. Lewis</cite>
 
 # Conclusion
 
