@@ -8,13 +8,13 @@ content_img_path: images/1.jpg
 content_img_alt: Components of a great software team
 seo:
   title: Great software teams
-  description: The first blog post on Developer-Forge
+  description: Great software teams
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: the first post
+      value: Great software teams
       keyName: property
     - name: 'og:description'
       value: >-

@@ -8,13 +8,13 @@ content_img_path: images/2.png
 content_img_alt: Just build
 seo:
   title: Great software teams
-  description: The first blog post on Developer-Forge
+  description: Just Build
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: the first post
+      value: Just Build
       keyName: property
     - name: 'og:description'
       value: >-

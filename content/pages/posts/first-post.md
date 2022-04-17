@@ -8,13 +8,13 @@ content_img_path: images/0.jpg
 content_img_alt: Icelandic horses
 seo:
   title: Developer-Forge is born!
-  description: The first blog post on Developer-Forge
+  description: Developer-Forge is born!
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: the first post
+      value: Developer-Forge is born!
       keyName: property
     - name: 'og:description'
       value: >-
