@@ -40,14 +40,28 @@ I love thinking/reading about questions like:
 - How do developers go [from Senior to Staff](https://staffeng.com/) or beyond?
 - How do Engineer scale themselves? 
 
-Part of the answer I think, is looking at the Compotency Matrices and Career Progression ladders companies put out to explain what they expect in each role.
+Part of the answer I think, is looking at:
 
-Trying to look and standardise what each totally different companies search for - helps you understand what is valuable in the marketplace.
+- Compotency Matrices and Career Progression ladders companies put out to explain what they expect in each role.
+- Individual opinions from industry experts who have gone from Mid-Level Engineer to CTO (etc)
 
-This has led me to compiling around 70 publicly accessible career matrices from companies around the world.
+Trying to look and standardise what totally different companies search for - helps you understand what is valuable in the marketplace.
 
-You can read them all [here](https://github.com/kealanparr/Career-progression-matrices/edit/main/README.md)
+This has led me to compiling around 70 publicly accessible career matrices from companies around the world, from places like:
 
-I've been spending time looking at "where I fit" and thinking about ways I can improve.
+- Soundcloud
+- Dropbox
+- Etsy
+- Gov.uk
+- Medium
+- Khan Academy
+- Circle CI
+- Monzo
+- Patreon
+- Financial Times
+
+You can read them all [here](https://github.com/kealanparr/Career-progression-matrices)
+
+I've been spending time looking at areas where I'm strong and looking where I'm weaker too - searching for ways I can grow & improve.
 
 I hope this is of use to you too!
