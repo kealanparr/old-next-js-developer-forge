@@ -48,8 +48,8 @@ I also have a side business where I do paid technical writing you can learn more
 The languages I know and love are: JavaScript/TypeScript, React, go, Node and Swift.
 
 I have a collection of side projects I enjoy doing/did to learn something new:
-- I transcribe images on Reddit weekly, for visually impaired people to ensure images are accessible.
-- I have a profitable side-business where I do consultancy. Primarily, freelance writing and reviewing of technical documentation. 
+- I transcribe images on Reddit, for visually impaired people to ensure images are accessible.
+- I have a profitable side-business where I do consultancy. Primarily writing of technical articles, reviewing of technical articles and software development. My articles have been viewed by more than 300,000 people with a total read time greater than 20,000 hours.
 - I created a repo called ["Every link I wish I had as a beginner"](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner)- which details a host of useful links and resources to help less experienced developers. This has a CRON job to run a Node script monthly, to ensure none of the links undergo [link rot](https://en.wikipedia.org/wiki/Link_rot)
 - I made a [basic JavaScript script](https://github.com/kealanparr/Chrome-dino-script.) to automate playing the [offline Chrome dino game](chrome://dino/) (that link only works in Chrome!)
 - I have a [personal site](https://kealanparr.com/) I keep updated with what I'm upto
@@ -57,7 +57,7 @@ I have a collection of side projects I enjoy doing/did to learn something new:
 - I was fascinated with Path finding algorithms, so I implemented [Djikstra and A*](https://github.com/kealanparr/pathFinder.js). I then made [Conways Game of Life](https://github.com/kealanparr/Conways.)
 - [DeveloperForge](developer-forge.com) is updated by me, a Next.JS Static Site
 - I made a [website](https://einsteins-riddle.com/) to solve [Einsteins Riddle ](https://www.freecodecamp.org/news/einsteins-riddle/)
-- As part of an interview process, I made a [candidate-checker](https://mysterious-hollows-01965.herokuapp.com/) in go. Try typing "kealan parr" into the box! Or try "joe bloggs" as another example.
+- As part of an interview process, I made a [candidate-checker](https://go-candidate-picker.herokuapp.com/) in go. Try typing "kealan parr" into the box! Or try "joe bloggs" as another example.
 
 I love to keep upto date with the software field in general, and am a member of [ACM](https://www.acm.org/) and the [Unicode Consortium](https://unicode.org/consortium/consort.html)
 
