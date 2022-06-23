@@ -61,6 +61,6 @@ I have a collection of side projects I enjoy doing/did to learn something new:
 
 I love to keep upto date with the software field in general, and am a member of [ACM](https://www.acm.org/) and the [Unicode Consortium](https://unicode.org/consortium/consort.html)
 
-I love to play Chess, and have played 4,500 games online (though I am still rubbish despite these games!)
+Outside of work, I love to do gymnastics, play chess and read.
 
 *Thank you for reading!*
