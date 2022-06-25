@@ -27,6 +27,12 @@
                 "url": "/software-principles/",
                 "style": "link"
             },
+						{
+							"label": "Array cheatsheet",
+							"url": "https://kealanparr.com/assets/misc/JavaScript-Array-Cheatsheet.pdf",
+							"style": "link"
+					},
+						
             {
               "label": "Tech-talks",
               "url": "/tech-talks-condensed/",
