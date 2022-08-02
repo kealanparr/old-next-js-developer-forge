@@ -33,7 +33,7 @@ layout: page
 
 Hi, my names **Kealan Parr**. I'm a **Senior Fullstack Developer** at Amberlabs, with five years experience. 
 
-A few years ago I was finishing my Biology degree and had to do some basic programming for my Biological data. I ended up more interested in programming than collecting the biological data I was collecting.
+A few years ago I was finishing my Biology degree and had to do some basic programming for my Biological data. I ended up more interested in programming than collecting the biological data.
 
 I knew I had to side step into coding.
 
