@@ -31,9 +31,9 @@ layout: page
 
 >Fall in love with some activity, and do it! Nobody ever figures out what life is all about, and it doesn't matter... Nearly everything is really interesting if you go into it deeply enough. Work as hard and as much as you want to on the things you like to do the best. <cite>Richard P. Feynman</cite>
 
-Hi, my names **Kealan Parr**. I'm a **Senior Software Enginner** at Auden, with four years experience. 
+Hi, my names **Kealan Parr**. I'm a **Senior Fullstack Developer** at Amberlabs, with five years experience. 
 
-A few years ago I was finishing my Biology degree and had to do some basic programming for my Biological data. I ended up more interested in the programming on my data I was doing than the biological data I was collecting.
+A few years ago I was finishing my Biology degree and had to do some basic programming for my Biological data. I ended up more interested in programming than collecting the biological data I was collecting.
 
 I knew I had to side step into coding.
 
