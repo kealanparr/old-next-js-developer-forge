@@ -37,7 +37,7 @@ A few years ago I was finishing my Biology degree and had to do some basic progr
 
 I knew I had to side step into coding.
 
-So I finished my Biology degree with a first class honours, and started working through [freeCodeCamp](https://www.freecodecamp.org/) certifications. You can view them [here](https://www.freecodecamp.org/certification/kealan-parr/javascript-algorithms-and-data-structures) and [here](https://www.freecodecamp.org/certification/kealan-parr/responsive-web-design)
+So I finished my Biology degree with a first class honours, and started working through [freeCodeCamp](https://www.freecodecamp.org/) certifications. You can view them [here](https://www.freecodecamp.org/certification/kealan-parr/javascript-algorithms-and-data-structures), [here](https://www.freecodecamp.org/certification/kealan-parr/back-end-development-and-apis) and [here](https://www.freecodecamp.org/certification/kealan-parr/responsive-web-design)
 
 Whilst I was at University, I also joined the [Royal Naval Reserves](https://www.royalnavy.mod.uk/our-organisation/bases-and-stations/training-establishments/university-royal-naval-units) and attained a foundation degree from the Chartered Management Institute in Business Administration and Management.
 
